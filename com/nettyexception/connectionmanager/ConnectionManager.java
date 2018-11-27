@@ -16,7 +16,6 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * Created on 27.11.2018 at 22:29 by NettyException | Sören!
- * All rights reserved | Made with <3
  */
 
 public class ConnectionManager extends Plugin {
