@@ -10,7 +10,6 @@ import net.md_5.bungee.api.plugin.Command;
 
 /**
  * Created on 27.11.2018 at 22:30 by NettyException | Sören!
- * All rights reserved | Made with <3
  */
 
 public class ConnectionCommand extends Command {
